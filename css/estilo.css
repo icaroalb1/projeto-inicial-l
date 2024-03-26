@@ -20,6 +20,15 @@
         text-align: center;
     }
 
+    #cabecalho{
+        background-image: url("../img/img-01-banner-1280×640.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        background-size: cover;
+    }
+
+
     /*Seletores de classe*/
     .link {
         /* font-size: 24%; */
