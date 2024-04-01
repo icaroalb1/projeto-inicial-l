@@ -84,3 +84,7 @@
     h2 {
         font-family: 'Times New Roman', Times, serif;
     }
+
+    p {
+        color: rgb(0, 128, 0);
+    }
