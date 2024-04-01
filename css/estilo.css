@@ -105,3 +105,8 @@
         border: 1px solid rgb(165, 161, 161);
         padding: 10px;
     }
+
+    form button {
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 255);
+    }
