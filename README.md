@@ -8,7 +8,7 @@
 
 ### ALUNO:
 ```
-- Nome : 
-- Git :
-- Instituição de Ensino :
+- Nome : Ícaro Américo de Albuquerque Lima
+- Git : icaroalb1
+- Instituição de Ensino : FIAP
 ```
