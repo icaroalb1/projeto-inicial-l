@@ -88,3 +88,7 @@
     p {
         color: rgb(0, 128, 0);
     }
+
+    #container {
+        padding: 20px;
+    }
