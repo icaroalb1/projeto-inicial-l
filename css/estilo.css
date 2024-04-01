@@ -96,3 +96,7 @@
     #conteudo {
         line-height: 1.5;
     }
+
+    nav {
+        font-weight: bold;
+    }
